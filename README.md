@@ -13,8 +13,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ogeday26)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogeday26)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ogeday26&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ogeday26)  
